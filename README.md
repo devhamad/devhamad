@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devhamad
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python , Django & JS 
+- 🌱 I’m currently learning JavaScript , TypeScript & Angular 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
